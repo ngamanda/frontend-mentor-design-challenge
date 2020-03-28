@@ -1,3 +1,12 @@
+const routerBase =
+  process.env.DEPLOY_ENV === 'GH_PAGES'
+    ? {
+        router: {
+          base: '/frontend-mentor-design-challenge/'
+        }
+      }
+    : {}
+
 export default {
   mode: 'spa',
   /*
@@ -48,5 +57,6 @@ export default {
      ** You can extend webpack config here
      */
     extend(config, ctx) {}
-  }
+  },
+  ...routerBase
 }

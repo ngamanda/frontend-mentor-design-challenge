@@ -1,6 +1,6 @@
 # frontend-mentor-design-challenge
 
-> 16 frontend projects for fun
+This is an attempt to complete [16 frontend projects for fun](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl?fbclid=IwAR0zBHiyoJXRedmp_NPaCuyBgHCGMTS7y3VSrKu10f7-QB9htmtdx-ieDN8). Wish me luck
 
 ## Build Setup
 
@@ -19,4 +19,12 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Deploy to GH pages
+
+```bash
+# generate static project
+$ yarn generate
+
+# deploy to gh pages
+$ yarn deploy
+```
