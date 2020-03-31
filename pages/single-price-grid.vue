@@ -2,22 +2,16 @@
   <div class="page">
     <div class="grid">
       <div class="header">
-        <h1 class="heading">
-          Join our community
-        </h1>
-        <h3 class="subtitle">
-          30-day, hassle-free money back guarantee
-        </h3>
+        <h1 class="heading">Join our community</h1>
+        <h3 class="subtitle">30-day, hassle-free money back guarantee</h3>
         <p class="description">
           Gain access to our library of tutorials along with export code
-          reviews. <br />
-          Perfect for any developers who are serious about honing their skills
+          reviews.
+          <br />Perfect for any developers who are serious about honing their skills
         </p>
       </div>
       <div class="subscription">
-        <h3 class="subtitle">
-          Monthly Subscription
-        </h3>
+        <h3 class="subtitle">Monthly Subscription</h3>
         <div class="price">
           <span class="price__value">$29</span>
           <span class="price__period">per month</span>
@@ -26,9 +20,7 @@
         <button class="sign-up__button">Sign Up</button>
       </div>
       <div class="footer">
-        <h3 class="subtitle">
-          Why Us
-        </h3>
+        <h3 class="subtitle">Why Us</h3>
         <ul class="list">
           <li>Tutorials by industry experts</li>
           <li>Peer & expert code review</li>
@@ -53,10 +45,10 @@ $neutral-gray: hsl(204, 43%, 93%);
 $neutral-blue: hsl(218, 22%, 67%);
 
 $body-font: 16px;
-$font: 'Karla', -apple-system, Arial, sans-serif;
 
 .page {
-  font-family: $font;
+  font-family: 'Karla', -apple-system, Arial, sans-serif;
+  font-size: $body-font;
   display: flex;
   align-items: center;
   justify-content: center;

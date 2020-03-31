@@ -6,12 +6,14 @@
       <a
         href="https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl?fbclid=IwAR0zBHiyoJXRedmp_NPaCuyBgHCGMTS7y3VSrKu10f7-QB9htmtdx-ieDN8"
         target="_blank"
-        >Frontend Mentor</a
-      >
+      >Frontend Mentor</a>
     </p>
     <ol class="list">
       <li>
         <nuxt-link to="/single-price-grid">Single price grid</nuxt-link>
+      </li>
+      <li>
+        <nuxt-link to="/four-card-feature-section">Four card feature section</nuxt-link>
       </li>
     </ol>
   </div>
