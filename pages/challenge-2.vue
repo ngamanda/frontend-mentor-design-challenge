@@ -3,45 +3,52 @@
     <div class="container">
       <span class="subtitle">Reliable, efficient delivery</span>
       <h1 class="heading">Powered by Technology</h1>
-      <p
-        class="text"
-      >Our Artifical Intelligence powered tools use millions of project data points to ensure that your project is successful</p>
+      <p class="text">
+        Our Artifical Intelligence powered tools use millions of project data
+        points to ensure that your project is successful
+      </p>
 
       <div class="grid">
         <div class="grid_item cyan">
           <h3 class="grid_item_heading">Supervisor</h3>
-          <p class="grid_item_text">Monitors activity to identify project roadblocks</p>
+          <p class="grid_item_text">
+            Monitors activity to identify project roadblocks
+          </p>
           <img
-            src="/four-card-feature-section/icon-supervisor.svg"
+            src="~static/challenge-2/icon-supervisor.svg"
             class="grid_item_icon"
             alt="Supervisor"
           />
         </div>
         <div class="grid_item red">
           <h3 class="grid_item_heading">Team Builder</h3>
-          <p class="grid_item_text">Scans our talent network to creat optimal team for your project</p>
+          <p class="grid_item_text">
+            Scans our talent network to creat optimal team for your project
+          </p>
           <img
-            src="/four-card-feature-section/icon-team-builder.svg"
+            src="~static/challenge-2/icon-team-builder.svg"
             class="grid_item_icon"
             alt="Supervisor"
           />
         </div>
         <div class="grid_item orange">
           <h3 class="grid_item_heading">Karma</h3>
-          <p class="grid_item_text">Regularly evaluates our talent to ensuire quality</p>
+          <p class="grid_item_text">
+            Regularly evaluates our talent to ensuire quality
+          </p>
           <img
-            src="/four-card-feature-section/icon-karma.svg"
+            src="~static/challenge-2/icon-karma.svg"
             class="grid_item_icon"
             alt="Supervisor"
           />
         </div>
         <div class="grid_item blue">
           <h3 class="grid_item_heading">Calculator</h3>
-          <p
-            class="grid_item_text"
-          >Uses data from past projects to provide better delivery estimates</p>
+          <p class="grid_item_text">
+            Uses data from past projects to provide better delivery estimates
+          </p>
           <img
-            src="/four-card-feature-section/icon-calculator.svg"
+            src="~static/challenge-2/icon-calculator.svg"
             class="grid_item_icon"
             alt="Supervisor"
           />

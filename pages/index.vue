@@ -6,14 +6,14 @@
       <a
         href="https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl?fbclid=IwAR0zBHiyoJXRedmp_NPaCuyBgHCGMTS7y3VSrKu10f7-QB9htmtdx-ieDN8"
         target="_blank"
-      >Frontend Mentor</a>
+      >Frontend&nbsp;Mentor</a>
     </p>
     <ol class="list">
       <li>
-        <nuxt-link to="/single-price-grid">Single price grid</nuxt-link>
+        <nuxt-link to="/challenge-1">Single price grid</nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/four-card-feature-section">Four card feature section</nuxt-link>
+        <nuxt-link to="/challenge-2">Four card feature</nuxt-link>
       </li>
     </ol>
   </div>
@@ -43,6 +43,7 @@
 
 .subtitle {
   color: #526488;
+  line-height: 1.5;
   padding-bottom: 15px;
 }
 
@@ -51,5 +52,10 @@ a:visited,
 a:hover {
   text-decoration: none;
   color: #42b983;
+}
+
+.list {
+  line-height: 2;
+  padding-left: 20px;
 }
 </style>
