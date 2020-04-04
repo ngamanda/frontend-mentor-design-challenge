@@ -15,6 +15,9 @@
       <li>
         <nuxt-link to="/challenge-2">Four card feature</nuxt-link>
       </li>
+      <li>
+        <nuxt-link to="/challenge-3">Huddle landing page</nuxt-link>
+      </li>
     </ol>
   </div>
 </template>
