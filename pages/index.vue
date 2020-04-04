@@ -22,6 +22,16 @@
   </div>
 </template>
 
+<script>
+export default {
+  head() {
+    return {
+      title: 'Frontend Mentor Challange | Amanda Ng'
+    }
+  }
+}
+</script>
+
 <style scoped>
 .container {
   margin: 0 auto;

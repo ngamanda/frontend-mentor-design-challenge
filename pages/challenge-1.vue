@@ -35,6 +35,16 @@
   </div>
 </template>
 
+<script>
+export default {
+  head() {
+    return {
+      title: 'Single price grid | Amanda Ng'
+    }
+  }
+}
+</script>
+
 <style lang="scss" scoped>
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
 
