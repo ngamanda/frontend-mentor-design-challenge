@@ -18,6 +18,9 @@
       <li>
         <nuxt-link to="/challenge-3">Huddle landing page</nuxt-link>
       </li>
+      <li>
+        <nuxt-link to="/challenge-4">Base apparel coming soon page</nuxt-link>
+      </li>
     </ol>
   </div>
 </template>
